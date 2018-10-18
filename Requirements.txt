@@ -1,0 +1,26 @@
+5.1. HARDWARE REQUIREMENTS
+
+?	 Raspberry pi 3.0
+?	Arduino uno 
+?	Motor Driver (Supply-Voltage Range: 4.5 V to 36 V)
+?	Motors
+?	Buzzer
+?	Power Bank (2.0)
+?	IR Sensors and Ultrasonic Sensors
+?	Battery and Charging unit
+?	8 MP 720p HQ video camer
+
+5.2. SOFTWARE REQUIREMENTS
+
+
+?	Open CV- Open Computer Vision Library 
+?	Simple CV
+?	Android Studio
+?	Python
+?	Raspbian Stretch
+?	Arduino IDE
+
+
+
+
+
